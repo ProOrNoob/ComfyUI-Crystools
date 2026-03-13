@@ -69,3 +69,5 @@ This fork only adds AMD Linux support on top of the existing codebase.
 
 A Pull Request has been submitted to the original repo:  
 👉 https://github.com/crystian/ComfyUI-Crystools/pulls
+
+*Patch fixed by Sonnet*
